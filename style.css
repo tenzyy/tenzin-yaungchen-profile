@@ -1,7 +1,8 @@
 style.css
-head { font-size: 12pt}
+head { font-size: 25pt}
 h1 {font-family: monospace}
 h2{font-family: monospace}
 h3{font-family: monospace}
-h4{font-family: monospace}
+h4{font-family: monospace; font-size: large}
 p{font-family: Georgia, 'Times New Roman', Times, serif}
+

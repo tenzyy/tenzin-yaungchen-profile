@@ -1,9 +1,7 @@
-style.css
-head { font-family: Verdana, Geneva, Tahoma, sans-serif; color: mediumaquamarine}
-h1 {font-family: monospace}
-h2{font-family: monospace}
-h3{font-family: monospace}
-h4{font-family: monospace; font-size: large}
-p{font-family: Georgia, 'Times New Roman', Times, serif}
-P1 {font-family: Georgia, 'Times New Roman', Times, serif}
-head {background-color: moccasin}
+#h1{
+    background-color: cornflowerblue
+}
+#content{
+    background-color: antiquewhite;
+    width: 700px; 
+}

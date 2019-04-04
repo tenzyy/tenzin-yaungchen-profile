@@ -1,11 +1,18 @@
 h1{
     background-color: cornflowerblue;
 }
-content{
-    background-color: antiquewhite;
+h2{
+    background-color:sandybrown;
 }
-hobbies{
-    padding: 15px;
+h3{
+    background-color: cornflowerblue;
+}
+h4{
+    background-color:sandybrown;
+}
+
+h4{
+    padding: 10px;
 }
 body{font-family: Georgia, 'Times New Roman', Times, serif;
 }

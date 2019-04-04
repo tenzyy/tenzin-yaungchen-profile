@@ -1,7 +1,9 @@
-#h1{
-    background-color: cornflowerblue
+h1{
+    background-color: cornflowerblue;
 }
-#content{
+content{
     background-color: antiquewhite;
     width: 700px; 
+}
+body{font-family: Georgia, 'Times New Roman', Times, serif;
 }

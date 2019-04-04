@@ -3,7 +3,9 @@ h1{
 }
 content{
     background-color: antiquewhite;
-    width: 700px; 
+}
+hobbies{
+    padding: 15px;
 }
 body{font-family: Georgia, 'Times New Roman', Times, serif;
 }

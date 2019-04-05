@@ -16,12 +16,18 @@ h4{
     font-size: 20pt;
 }
 body{
-    border-style: dotted;color:white;
+    border-style: dotted;
 
 }
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-body{
-background-color:floralwhite
+h2{
+    color:gray;
+}
+h3{
+    color:gray;
+}
+h4{
+    color:gray;
 }

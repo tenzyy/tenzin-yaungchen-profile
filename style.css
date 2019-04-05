@@ -13,8 +13,10 @@ h4{
     padding:5px;
 }
 h4{
-    font-size: 20pt;
+    font: size 30 pt;
+
 }
+
 body{
     border-style: dotted;
 
@@ -23,13 +25,13 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h2{
-    color:gray;
+    color:#E2E3E7;
 }
 h3{
-    color:gray;
+    color:#E2E3E7;
 }
 h4{
-    color:gray;
+    color:#E2E3E7;
 }
 body {
     background-repeat: no-repeat;
